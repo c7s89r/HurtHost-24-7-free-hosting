@@ -1,6 +1,6 @@
 # HurtHost - 24/7 free hosting https://hurthost.xyz/
 
-![HurtHost Logo]((https://i.imgur.com/mZpU2l6.png))
+![HurtHost Logo](https://i.imgur.com/mZpU2l6.png)
 
 **HurtHost** is a fast, simple, and free 24/7 hosting platform built for developers who want to deploy apps instantly without complicated setup.
 
