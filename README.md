@@ -1,4 +1,4 @@
-# HurtHost
+# HurtHost - 24/7 free hosting website https://hurthost.xyz/
 
 ![HurtHost Logo](https://i.imgur.com/DetvdsC.png)
 
